@@ -12,6 +12,8 @@ Menu - 1 halaman.
 
 Promo - 1 halaman.
 
+keranjang - 1 halaman
+
 ## Keterangan Folder
 
 > Desain, Aplikasi, Dokumentasi
