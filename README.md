@@ -1,6 +1,6 @@
 # Nama Aplikasi
 
-web tentang kedai makanan dengan judul "Rasa Tourism"
+web pemesanan makanan dengan judul "Rasa Tourism"
 
 ## feature
 
